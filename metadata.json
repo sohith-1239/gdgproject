@@ -1,0 +1,7 @@
+{
+  "name": "Performance Review Package",
+  "description": "An AI-powered student performance analyzer that segments exam answers into topics and provides detailed statistical analytics for teachers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
